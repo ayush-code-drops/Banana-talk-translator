@@ -1,0 +1,42 @@
+textarea{
+    width: 90%;
+    display: block;
+    margin: auto;
+    margin-bottom: 2rem;
+    border-radius: 12px;
+
+    background-color: rgba(247, 244, 244, 0.322);
+}
+
+.main-heading{
+    text-align: center;
+    font-size: 2rem;
+}
+
+#btn-banana{
+    display: block;
+    margin: auto;
+    background-color: rgb(57, 77, 192);
+    border-radius: 10px;
+    padding: 10px;
+    font-size: larger;
+    color: white;
+}
+
+.output-div{
+    border: 1px solid black;
+    width: 90%;
+    height: 150px;
+    display: block;
+    margin: auto;
+    margin-top: 2rem;
+border-radius: 12px;
+    background-color:rgba(247, 244, 244, 0.322);
+}
+
+body{
+    background: url(img/justin-lim-tloFnD-7EpI-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
